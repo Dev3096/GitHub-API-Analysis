@@ -21,6 +21,10 @@ Data Analysis
 The script uses Python to perform the following analyses on the data:
 
 Total number of issues, forks, and pulls created in 2022
+
 Total number of issues, forks, and pulls created in each month of 2022
+
 Total number of issues, forks, and pulls created on each day of the week in 2022
+
 The networkx package is then used to display the results in graphical form.
+
