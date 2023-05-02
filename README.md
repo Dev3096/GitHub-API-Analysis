@@ -1,4 +1,5 @@
 Angular Material GitHub API Analysis
+
 This project uses the GitHub API and Postman to retrieve and analyze data from the Angular Material repository. The goal is to gather and display statistics about the number of issues, forks, and pulls created during the year 2022, as well as the distribution of these events across the days of the week and the months of the year.
 
 Usage
